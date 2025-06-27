@@ -1,52 +1,64 @@
-🥘 Pasta cremosa con carne y champiñones
-Ingredientes:
+# 👨‍🍳 Cocinando con Brad Vela
 
-200 g de pasta (penne, fettuccine o la que prefieras)
+¡Bienvenidos a *Cocinando con Brad Vela*!  
+Un espacio donde la pasión por la cocina se encuentra con la creatividad y el sabor.
 
-250 g de carne molida (res o mezcla res/cerdo)
+---
 
-1 taza de champiñones frescos en láminas
+## 🍲 ¿Quién soy?
 
-1/2 cebolla picada
+¡Hola! Soy **Brad Vela**, un entusiasta de la cocina casera y gourmet. Me encanta explorar nuevos sabores, experimentar con recetas tradicionales y compartir mis aventuras culinarias con todos ustedes.
 
-2 dientes de ajo picados
+---
 
-200 ml de crema de leche (nata para cocinar)
+## 🎯 Objetivos del proyecto
 
-1/2 taza de queso parmesano rallado
+- Compartir recetas fáciles y deliciosas para todos los niveles.
+- Enseñar técnicas básicas y avanzadas de cocina.
+- Promover una alimentación saludable y balanceada.
+- Crear una comunidad culinaria donde todos puedan aprender y aportar.
 
-1 cucharada de aceite de oliva
+---
 
-Sal y pimienta al gusto
+## 📸 Contenido
 
-Opcional: perejil fresco picado para decorar
+Aquí encontrarás:
 
-👨‍🍳 Instrucciones:
-Cocer la pasta:
+- 📖 Recetas paso a paso (con fotos)
+- 🎥 Videos cortos de cocina
+- 🧂 Trucos y consejos prácticos
+- 📝 Blog con experiencias y recomendaciones
 
-Cocina la pasta según las instrucciones del paquete, en agua con sal. Escúrrela y reserva un poco del agua de cocción (1/4 taza).
+---
 
-Saltear los ingredientes:
+## 🍽️ Ejemplo de Receta
 
-En una sartén grande, calienta el aceite de oliva. Añade la cebolla y el ajo, y sofríe por 2-3 minutos.
+### Spaghetti a la Carbonara
 
-Agrega la carne molida. Cocina removiendo hasta que esté bien dorada. Salpimienta.
+**Ingredientes:**
+- 200g de spaghetti
+- 2 huevos
+- 100g de queso parmesano
+- 100g de panceta o tocino
+- Pimienta negra al gusto
 
-Incorpora los champiñones y cocina por unos 5 minutos más hasta que estén tiernos.
+**Pasos:**
+1. Cocina la pasta al dente.
+2. Bate los huevos con el queso.
+3. Dora la panceta en una sartén.
+4. Mezcla la pasta caliente con los huevos y la panceta.
+5. Agrega pimienta negra y ¡sirve!
 
-Hacer la salsa:
+---
 
-Añade la crema de leche a la sartén y baja el fuego.
+## 📬 Contacto
 
-Mezcla bien, y si está muy espesa, añade un poco del agua de cocción de la pasta.
+¿Quieres colaborar o tienes una receta que compartir?  
+📧 Escríbeme a: **bradvela@cocinaejemplo.com**  
+📷 Sígueme en Instagram: [@brad_cocina](https://instagram.com/brad_cocina)
 
-Agrega el queso parmesano y mezcla hasta que se derrita e integre.
+---
 
-Combinar:
+## ⭐ ¡Gracias por visitar!
 
-Añade la pasta cocida a la sartén y mezcla todo para que se impregne bien con la salsa.
-
-Servir:
-
-Sirve caliente, con un poco más de parmesano por encima y perejil fresco si lo deseas.
 
